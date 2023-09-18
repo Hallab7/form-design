@@ -1,7 +1,7 @@
 body {
     height: 600px;
     background-color: #5a9d7c;
-
+    text-transform: capitalize;
 
 }
 .form-container {
@@ -17,12 +17,14 @@ body {
 .sub-container {
     padding: 10% 15% 10% 15%;
     color: white;
+    text-transform: capitalize;
 
 }
 button {
     height: 35px;
     color: white;
     border-style: none;
+    text-transform: capitalize;
 }
 .active-btn {
     background-color: #5a9d7c;
@@ -51,6 +53,7 @@ input {
     background-color: hsl(0, 0%, 20%);
     border-style: solid;
     border-width: thin thin thin;
+    text-transform: capitalize;
 }
 #first-name {
     width: 47%;
